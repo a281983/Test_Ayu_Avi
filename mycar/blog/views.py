@@ -22,3 +22,9 @@ def post_detail(request, year, month, day, post):
    return render(request,
                  'blog/post/detail.html',
                  {'post': post})
+
+
+
+#Adding a line to check git
+#Adding another line to check git
+#Adding 3rd line to check git
