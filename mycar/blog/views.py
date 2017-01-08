@@ -29,3 +29,4 @@ def post_detail(request, year, month, day, post):
 #Adding another line to check git
 #Adding 3rd line to check git
 #Adding 4thline to check git
+#Ayu adding the 5th line.
